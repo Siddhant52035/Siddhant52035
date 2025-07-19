@@ -15,7 +15,7 @@
 
 ### 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-slug](https://www.linkedin.com/in/siddhant-thakur-codeismoney/)) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhant-thakur-codeismoney/)) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Siddhant52035)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white)](https://yourportfolio.com)
 
